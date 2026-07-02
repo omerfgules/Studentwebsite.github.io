@@ -11,7 +11,7 @@ A simple first version of a student progress portal built with vanilla HTML, CSS
 - Student dashboard shows the logged-in student's own progress.
 - Teacher dashboard shows only students assigned to the logged-in teacher.
 - Basic progress fields for completed lessons, study percentage, recent activity, and assignment status.
-- Role-aware navigation.
+- Role-aware navigations.
 
 ## Getting started
 
